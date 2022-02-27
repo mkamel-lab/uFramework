@@ -1,0 +1,6 @@
+Code	Source	Description
+550001	uData	General Error.
+550002	uData	Dataype Conversion Error.
+550010	uActor	Unknown	Command.
+550011	uTransport	Two-way message Timeout.
+550012	uTransport_Actor	Dequeue Timeout.
