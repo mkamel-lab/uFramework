@@ -17,7 +17,56 @@
 			<Item Name="UML_BrokerageClasses.png" Type="Document" URL="../../../Docs/UML_BrokerageClasses.png"/>
 		</Item>
 		<Item Name="uFramework_pack_uPolicy.lvlib" Type="Library" URL="../uFramework_pack_uPolicy.lvlib"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="uData.lvlibp" Type="LVLibp" URL="../../../Bin/uData.lvlibp">
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../../Bin/uData.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="NI_Data Type.lvlib" Type="Library" URL="../../../Bin/uData.lvlibp/1abvi3w/vi.lib/Utility/Data Type/NI_Data Type.lvlib"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="../../../Bin/uData.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="uData.lvclass" Type="LVClass" URL="../../../Bin/uData.lvlibp/uData.lvclass"/>
+				<Item Name="whitespace.ctl" Type="VI" URL="../../../Bin/uData.lvlibp/1abvi3w/vi.lib/Utility/error.llb/whitespace.ctl"/>
+			</Item>
+			<Item Name="uFramework.lvlibp" Type="LVLibp" URL="../../../Bin/uFramework.lvlibp">
+				<Item Name="uActor" Type="Folder">
+					<Item Name="uActor.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uActor/uActor.lvclass"/>
+				</Item>
+				<Item Name="uClient" Type="Folder">
+					<Item Name="uClient_Publisher.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uClient_Publisher/uClient_Publisher.lvclass"/>
+					<Item Name="uClient_Subscriber.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uClient_Subscriber/uClient_Subscriber.lvclass"/>
+					<Item Name="uClient.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uClient/uClient.lvclass"/>
+				</Item>
+				<Item Name="uPolicy" Type="Folder">
+					<Item Name="uPolicy.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uPolicy/uPolicy.lvclass"/>
+				</Item>
+				<Item Name="uNotifyMode" Type="Folder">
+					<Item Name="uNotifyMode.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uNotifyMode/uNotifyMode.lvclass"/>
+				</Item>
+				<Item Name="uStringManipulation" Type="Folder">
+					<Item Name="uStringManipulation.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uStringManipulation/uStringManipulation.lvclass"/>
+				</Item>
+				<Item Name="uBroker" Type="Folder">
+					<Item Name="uBroker.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uBroker/uBroker.lvclass"/>
+				</Item>
+				<Item Name="uSubscription" Type="Folder">
+					<Item Name="uSubscription.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uSubscription/uSubscription.lvclass"/>
+				</Item>
+				<Item Name="uMsg" Type="Folder">
+					<Item Name="uMsg.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uMsg/uMsg.lvclass"/>
+					<Item Name="uMsg_Delayed.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uMsg_Delayed/uMsg_Delayed.lvclass"/>
+				</Item>
+				<Item Name="uTransport" Type="Folder">
+					<Item Name="uTransport_Event.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uTransport_Event/uTransport_Event.lvclass"/>
+					<Item Name="uTransport_Queue.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uTransport_Queue/uTransport_Queue.lvclass"/>
+					<Item Name="uTransport_uActor.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uTransport_uActor/uTransport_uActor.lvclass"/>
+					<Item Name="uTransport.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uTransport/uTransport.lvclass"/>
+				</Item>
+				<Item Name="LVMapReplaceAction.ctl" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/miscctls.llb/LVMapReplaceAction.ctl"/>
+				<Item Name="Clear Errors.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="Get LV Class Name.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/LVClass/Get LV Class Name.vi"/>
+				<Item Name="whitespace.ctl" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/error.llb/whitespace.ctl"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
+			</Item>
+		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="uFramework_pack" Type="Packed Library">
 				<Property Name="Bld_buildCacheID" Type="Str">{D878BCFC-6C46-4C30-B551-DE5B51D17E52}</Property>
@@ -39,7 +88,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{CDF1BFD4-9CAF-464C-B447-A84D29435949}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{766E8C86-6B33-4FB8-8AB2-ED5C6CA907E0}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/uFramework_pack_uPolicy.lvlib</Property>
