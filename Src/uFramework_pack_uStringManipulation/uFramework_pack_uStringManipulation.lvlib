@@ -4,4 +4,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Item Name="addPrefix.lvclass" Type="LVClass" URL="../addPrefix/addPrefix.lvclass"/>
+	<Item Name="1-to-1_map.lvclass" Type="LVClass" URL="../1-to-1_map/1-to-1_map.lvclass"/>
+	<Item Name="SaneWinFilename.lvclass" Type="LVClass" URL="../SaneWinFilename/SaneWinFilename.lvclass"/>
 </Library>
