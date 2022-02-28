@@ -20,9 +20,6 @@
 	<Item Name="uNotifyMode" Type="Folder">
 		<Item Name="uNotifyMode.lvclass" Type="LVClass" URL="../uNotifyMode/uNotifyMode.lvclass"/>
 	</Item>
-	<Item Name="uStringManipulation" Type="Folder">
-		<Item Name="uStringManipulation.lvclass" Type="LVClass" URL="../uStringManipulation/uStringManipulation.lvclass"/>
-	</Item>
 	<Item Name="uBroker" Type="Folder">
 		<Item Name="uBroker.lvclass" Type="LVClass" URL="../uBroker/uBroker.lvclass"/>
 	</Item>

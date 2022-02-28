@@ -40,9 +40,6 @@
 				<Item Name="uNotifyMode" Type="Folder">
 					<Item Name="uNotifyMode.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uNotifyMode/uNotifyMode.lvclass"/>
 				</Item>
-				<Item Name="uStringManipulation" Type="Folder">
-					<Item Name="uStringManipulation.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uStringManipulation/uStringManipulation.lvclass"/>
-				</Item>
 				<Item Name="uBroker" Type="Folder">
 					<Item Name="uBroker.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uBroker/uBroker.lvclass"/>
 				</Item>
@@ -65,6 +62,9 @@
 				<Item Name="Get LV Class Name.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/LVClass/Get LV Class Name.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
+			</Item>
+			<Item Name="uStringManipulation.lvlibp" Type="LVLibp" URL="../../../Bin/uStringManipulation.lvlibp">
+				<Item Name="uStringManipulation.lvclass" Type="LVClass" URL="../../../Bin/uStringManipulation.lvlibp/uStringManipulation.lvclass"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
