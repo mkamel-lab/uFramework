@@ -40,6 +40,16 @@
 			<Item Name="uStringManipulation.lvlibp" Type="LVLibp" URL="../../../Bin/uStringManipulation.lvlibp">
 				<Item Name="uStringManipulation.lvclass" Type="LVClass" URL="../../../Bin/uStringManipulation.lvlibp/uStringManipulation.lvclass"/>
 			</Item>
+			<Item Name="uData.lvlibp" Type="LVLibp" URL="/C/UCT_TEE/Bin/ThirdParty/Ultimate/uData.lvlibp">
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/C/UCT_TEE/Bin/ThirdParty/Ultimate/uData.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/C/UCT_TEE/Bin/ThirdParty/Ultimate/uData.lvlibp/1abvi3w/vi.lib/Utility/Data Type/NI_Data Type.lvlib"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="/C/UCT_TEE/Bin/ThirdParty/Ultimate/uData.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="uData.lvclass" Type="LVClass" URL="/C/UCT_TEE/Bin/ThirdParty/Ultimate/uData.lvlibp/uData.lvclass"/>
+				<Item Name="whitespace.ctl" Type="VI" URL="/C/UCT_TEE/Bin/ThirdParty/Ultimate/uData.lvlibp/1abvi3w/vi.lib/Utility/error.llb/whitespace.ctl"/>
+			</Item>
+			<Item Name="uStringManipulation.lvlibp" Type="LVLibp" URL="/C/UCT_TEE/Bin/ThirdParty/Ultimate/uStringManipulation.lvlibp">
+				<Item Name="uStringManipulation.lvclass" Type="LVClass" URL="/C/UCT_TEE/Bin/ThirdParty/Ultimate/uStringManipulation.lvlibp/uStringManipulation.lvclass"/>
+			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="uFramework" Type="Packed Library">
@@ -52,7 +62,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{815F31DA-2AAB-4F36-997B-3022214C3CD4}</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Bld_version.minor" Type="Int">1</Property>
+				<Property Name="Bld_version.minor" Type="Int">2</Property>
 				<Property Name="Destination[0].destName" Type="Str">uFramework.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/U/Projects/NI_AB_PROJECTNAME/Bin/uFramework.lvlibp</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
@@ -63,7 +73,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{48FDEAAD-2C45-4256-9FD8-3981A01AED43}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{4009EA8F-75F9-4861-9558-9777ACACE8EB}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/uFramework.lvlib</Property>
