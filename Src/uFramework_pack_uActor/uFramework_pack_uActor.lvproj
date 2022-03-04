@@ -17,7 +17,6 @@
 			<Item Name="UML_BrokerageClasses.png" Type="Document" URL="../../../Docs/UML_BrokerageClasses.png"/>
 		</Item>
 		<Item Name="uFramework_pack_uActor.lvlib" Type="Library" URL="../uFramework_pack_uActor.lvlib"/>
-		<Item Name="uAssembler.lvlib" Type="Library" URL="../uAssembler/uAssembler.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -127,7 +126,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{A8EF69D7-936A-429C-9D29-BE697F31F9AA}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{F469EDB9-AAFB-441F-A259-F5350E16DF20}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/uFramework_pack_uActor.lvlib</Property>
