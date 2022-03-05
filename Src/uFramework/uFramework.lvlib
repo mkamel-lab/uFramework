@@ -26,6 +26,9 @@
 	<Item Name="uSubscription" Type="Folder">
 		<Item Name="uSubscription.lvclass" Type="LVClass" URL="../uSubscription/uSubscription.lvclass"/>
 	</Item>
+	<Item Name="uErr" Type="Folder">
+		<Item Name="uErr.lvclass" Type="LVClass" URL="../uErr/uErr.lvclass"/>
+	</Item>
 	<Item Name="uMsg" Type="Folder">
 		<Item Name="uMsg.lvclass" Type="LVClass" URL="../uMsg/uMsg.lvclass"/>
 		<Item Name="uMsg_Delayed.lvclass" Type="LVClass" URL="../uMsg_Delayed/uMsg_Delayed.lvclass"/>
