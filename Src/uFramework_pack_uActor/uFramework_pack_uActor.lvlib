@@ -6,5 +6,4 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="uObserver.lvclass" Type="LVClass" URL="../uObserver/uObserver.lvclass"/>
-	<Item Name="uAssembler.lvclass" Type="LVClass" URL="../uAssembler/uAssembler.lvclass"/>
 </Library>
