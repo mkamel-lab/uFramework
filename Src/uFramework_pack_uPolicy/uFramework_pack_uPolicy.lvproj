@@ -46,6 +46,9 @@
 				<Item Name="uSubscription" Type="Folder">
 					<Item Name="uSubscription.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uSubscription/uSubscription.lvclass"/>
 				</Item>
+				<Item Name="uErr" Type="Folder">
+					<Item Name="uErr.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uErr/uErr.lvclass"/>
+				</Item>
 				<Item Name="uMsg" Type="Folder">
 					<Item Name="uMsg.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uMsg/uMsg.lvclass"/>
 					<Item Name="uMsg_Delayed.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uMsg_Delayed/uMsg_Delayed.lvclass"/>
@@ -59,9 +62,9 @@
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="LVMapReplaceAction.ctl" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/miscctls.llb/LVMapReplaceAction.ctl"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Clear Errors.vi"/>
-				<Item Name="Get LV Class Name.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/LVClass/Get LV Class Name.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="Get LV Class Name.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/LVClass/Get LV Class Name.vi"/>
 			</Item>
 			<Item Name="uStringManipulation.lvlibp" Type="LVLibp" URL="../../../Bin/uStringManipulation.lvlibp">
 				<Item Name="uStringManipulation.lvclass" Type="LVClass" URL="../../../Bin/uStringManipulation.lvlibp/uStringManipulation.lvclass"/>
