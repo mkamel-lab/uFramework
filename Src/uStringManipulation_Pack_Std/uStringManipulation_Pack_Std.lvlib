@@ -6,6 +6,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="addPrefix.lvclass" Type="LVClass" URL="../addPrefix/addPrefix.lvclass"/>
+	<Item Name="removePrefix.lvclass" Type="LVClass" URL="../removePrefix/removePrefix.lvclass"/>
 	<Item Name="1-to-1_map.lvclass" Type="LVClass" URL="../1-to-1_map/1-to-1_map.lvclass"/>
 	<Item Name="SaneWinFilename.lvclass" Type="LVClass" URL="../SaneWinFilename/SaneWinFilename.lvclass"/>
 </Library>
