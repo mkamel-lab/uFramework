@@ -84,7 +84,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C3332A10-650F-4245-B358-1F9AFB494501}</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Bld_version.minor" Type="Int">3</Property>
+				<Property Name="Bld_version.minor" Type="Int">4</Property>
 				<Property Name="Destination[0].destName" Type="Str">uFramework_pack_uActor.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/U/Projects/uFramework/Bin/NI_AB_PROJECTNAME.lvlibp</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
@@ -95,7 +95,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{F469EDB9-AAFB-441F-A259-F5350E16DF20}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{53EF58DE-121E-4A2B-BAB0-D2C216911597}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/uFramework_pack_uActor.lvlib</Property>
