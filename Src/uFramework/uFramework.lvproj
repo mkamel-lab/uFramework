@@ -63,7 +63,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{4C1AFE81-2477-40DD-A1D5-8D4BB6979274}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{D97A2E82-1029-4781-95F2-EC11315910CE}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/uFramework.lvlib</Property>
