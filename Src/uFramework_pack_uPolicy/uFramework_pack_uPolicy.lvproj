@@ -19,11 +19,12 @@
 		<Item Name="uFramework_pack_uPolicy.lvlib" Type="Library" URL="../uFramework_pack_uPolicy.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="uData.lvlibp" Type="LVLibp" URL="../../../Bin/uData.lvlibp">
-				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../../Bin/uData.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
-				<Item Name="NI_Data Type.lvlib" Type="Library" URL="../../../Bin/uData.lvlibp/1abvi3w/vi.lib/Utility/Data Type/NI_Data Type.lvlib"/>
-				<Item Name="Trim Whitespace.vi" Type="VI" URL="../../../Bin/uData.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="uData.lvclass" Type="LVClass" URL="../../../Bin/uData.lvlibp/uData.lvclass"/>
+				<Item Name="uConvertible.lvclass" Type="LVClass" URL="../../../Bin/uData.lvlibp/uConvertible.lvclass"/>
+				<Item Name="NI_Data Type.lvlib" Type="Library" URL="../../../Bin/uData.lvlibp/1abvi3w/vi.lib/Utility/Data Type/NI_Data Type.lvlib"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../../Bin/uData.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="../../../Bin/uData.lvlibp/1abvi3w/vi.lib/Utility/error.llb/whitespace.ctl"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="../../../Bin/uData.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
 			</Item>
 			<Item Name="uFramework.lvlibp" Type="LVLibp" URL="../../../Bin/uFramework.lvlibp">
 				<Item Name="uActor" Type="Folder">
@@ -59,12 +60,13 @@
 					<Item Name="uTransport_uActor.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uTransport_uActor/uTransport_uActor.lvclass"/>
 					<Item Name="uTransport.lvclass" Type="LVClass" URL="../../../Bin/uFramework.lvlibp/uTransport/uTransport.lvclass"/>
 				</Item>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="LVMapReplaceAction.ctl" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/miscctls.llb/LVMapReplaceAction.ctl"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Clear Errors.vi"/>
-				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
-				<Item Name="Get LV Class Name.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/LVClass/Get LV Class Name.vi"/>
+				<Item Name="Create NI GUID.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/string/Create NI GUID.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="Get LV Class Name.vi" Type="VI" URL="../../../Bin/uFramework.lvlibp/1abvi3w/vi.lib/Utility/LVClass/Get LV Class Name.vi"/>
 			</Item>
 			<Item Name="uStringManipulation.lvlibp" Type="LVLibp" URL="../../../Bin/uStringManipulation.lvlibp">
 				<Item Name="uStringManipulation.lvclass" Type="LVClass" URL="../../../Bin/uStringManipulation.lvlibp/uStringManipulation.lvclass"/>
@@ -81,7 +83,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{93277138-0ECA-42E0-A540-C97B609FE0EF}</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Bld_version.minor" Type="Int">1</Property>
+				<Property Name="Bld_version.minor" Type="Int">2</Property>
 				<Property Name="Destination[0].destName" Type="Str">uFramework_pack_uPolicy.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/U/Projects/uFramework/Bin/NI_AB_PROJECTNAME.lvlibp</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
@@ -92,7 +94,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{D7A8884A-3A2B-4111-8046-42003D05343E}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{FF097EF6-84BF-4DFB-B0F4-CA37A3855652}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/uFramework_pack_uPolicy.lvlib</Property>

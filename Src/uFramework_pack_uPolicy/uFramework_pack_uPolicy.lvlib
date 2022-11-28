@@ -5,7 +5,9 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Item Name="Null.lvclass" Type="LVClass" URL="../Null/Null.lvclass"/>
 	<Item Name="SingleTopic.lvclass" Type="LVClass" URL="../SingleTopic/SingleTopic.lvclass"/>
 	<Item Name="SelectTopics.lvclass" Type="LVClass" URL="../SelectTopics/SelectTopics.lvclass"/>
 	<Item Name="hasPrefix.lvclass" Type="LVClass" URL="../hasPrefix/hasPrefix.lvclass"/>
+	<Item Name="Decorate.lvclass" Type="LVClass" URL="../Decorate/Decorate.lvclass"/>
 </Library>
