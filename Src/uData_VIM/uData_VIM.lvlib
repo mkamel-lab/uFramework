@@ -1,9 +1,9 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="21008000">
+<Library LVVersion="23008000">
 	<Property Name="NI.Lib.Description" Type="Str">This is a wrapper for the VIMs which cannot be part of a PPL.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*!!!!*Q(C=\&gt;5^&lt;B.2&amp;-8R![+AM)2=US$P!.W3VFPQ&amp;K\3J82,[3W=+LWXY"[;OY*9XI*,3V4B0]_8B)#)'U!)Z9W@-T\P[_=XYYEUSGPJF?YOF;MHSWC@H6_TW84_\7R]?N4?P=\",^JHDXP`X([?_[J0TOU^[?S(Q1`N4`EP&amp;$W8Z`*`FY]8@Q2``(@Q1N/$C&amp;J55Z-;GJ;^+`)C,`)C,`)C.\H*47ZSEZM]S:-]S:-]S:-]S)-]S)-]S).](/1C&amp;\H))27,&amp;QM6ER94&amp;*WBK(AL0)7H]"1?0KLQ&amp;*\#5XA+$VV5?!J0Y3E]B9&gt;B+DS&amp;J`!5HM,$6%.3YS$(5XC98M:D0-:D0-&lt;$ED)?!T#,G9H.*$"E'MW*]2C0]8!KYT%?YT%?Y[&amp;:RG-]RG-]RM/1M3M?GOEAR]-U3DS**`%EHM4$V%I]C3@R**\%QX*+0)EH131,*J.$5$)I[:"]3$S*BT^+0)EH]33?R%04O%)Z&gt;G&lt;34!=ZHM!4?!*0Y!E]4+(!%XA#4_!*0%SLQ".Y!E`A#4QMJ=!4?!*0!!E7:8E&amp;EQ5$AUZ"%(BYD&lt;MFRF8SE-1YJ,ZZV4?F_G:4XU4KGU.^U&gt;585XW2V*OPXF4V:KEX1@XFV'AV2LW)?P$555@?$^1&gt;&gt;5P&gt;5.@5&amp;86*86$HU^$@X0&amp;Y0/JQ/'CXWWG\X7KTW7C^8GOV7GGZ8'KR7'A_H^]`"NZRX$]1(JZ,J]`P&lt;U\\$T?HW`XV[@&lt;NGS_@^N&gt;`[@`T0`"MV%N^PQ:\^"6KBFK^!!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*!!!!*Q(C=\&gt;5^&lt;B.2&amp;-8R![+AM)2=US$P!.W3VFPQ&amp;K\3J82,[3W=+LWXY"[;OY*9XI*,3V4B0]_8B)#)'U!)Z9W@-T\P[_=XYYEUSGPJF?YOF;MHSWC@H6_TW84_\7R]?N4?P=\",^JHDXP`X([?_[J0TOU^[?S(Q1`N4`EP&amp;$W8Z`*`FY]8@Q2``(@Q1N/$C&amp;J55Z-;GJ;^+`)C,`)C,`)C.\H*47ZSEZM]S:-]S:-]S:-]S)-]S)-]S).](/1C&amp;\H))27,&amp;QM6ER94&amp;*WBK(AL0)7H]"1?0KLQ&amp;*\#5XA+$VV5?!J0Y3E]B9&gt;B+DS&amp;J`!5HM,$6%.3YS$(5XC98M:D0-:D0-&lt;$ED)?!T#,G9H.*$"E'MW*]2C0]8!KYT%?YT%?Y[&amp;:RG-]RG-]RM/1M3M?GOEAR]-U3DS**`%EHM4$V%I]C3@R**\%QX*+0)EH131,*J.$5$)I[:"]3$S*BT^+0)EH]33?R%04O%)Z&gt;G&lt;34!=ZHM!4?!*0Y!E]4+(!%XA#4_!*0%SLQ".Y!E`A#4QMJ=!4?!*0!!E7:8E&amp;EQ5$AUZ"%(BYD&lt;MFRF8SE-1YJ,ZZV4?F_G:4XU4KGU.^U&gt;585XW2V*OPXF4V:KEX1@XFV'AV2LW)?P$555@?$^1&gt;&gt;5P&gt;5.@5&amp;86*86$HU^$@X0&amp;Y0/JQ/'CXWWG\X7KTW7C^8GOV7GGZ8'KR7'A_H^]`"NZRX$]1(JZ,J]`P&lt;U\\$T?HW`XV[@&lt;NGS_@^N&gt;`[@`T0`"MV%N^PQ:\^"6KBFK^!!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">587235328</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
