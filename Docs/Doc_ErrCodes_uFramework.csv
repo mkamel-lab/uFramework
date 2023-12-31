@@ -4,3 +4,4 @@ Code	Source	Description
 550010	uActor	Unknown	Command.
 550011	uTransport	Two-way message Timeout.
 550012	uTransport_Actor	Dequeue Timeout.
+550013	uStringManipulation	Manipulation Error.
