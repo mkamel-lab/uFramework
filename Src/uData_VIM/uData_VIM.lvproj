@@ -43,7 +43,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/U/Projects/uFramework/Bin/NI_AB_PROJECTNAME.llb</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{CC8C0307-EF5F-4C3C-B5BB-818A5489EDC8}</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Bld_version.minor" Type="Int">2</Property>
+				<Property Name="Bld_version.minor" Type="Int">4</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">/U/Projects/uFramework/Bin/NI_AB_PROJECTNAME.llb</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
@@ -52,7 +52,7 @@
 				<Property Name="Destination[1].path" Type="Path">/U/Projects/uFramework/Bin</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{5B82969A-24C4-4384-8EE3-E00302CBA654}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{6447FC1C-A30A-45C5-B6A8-3F934EC2C184}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/uData_VIM.lvlib</Property>
